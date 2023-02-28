@@ -1,7 +1,7 @@
 [
     {
         "name": "Mark Berry",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "GAD",
         "glider": "VentusA",
         "flarm": [
@@ -10,7 +10,7 @@
     },
     {
         "name": "Kel Burgess",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "XBY",
         "glider": "Discus2",
         "flarm": [
@@ -19,7 +19,7 @@
     },
     {
         "name": "Raymond Caldon",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "NZE",
         "glider": "LS6A",
         "flarm": [
@@ -28,7 +28,7 @@
     },
     {
         "name": "David Fagan",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "UHW",
         "glider": "JS1C TJ 21m",
         "flarm": [
@@ -37,7 +37,7 @@
     },
     {
         "name": "Jacques Graells",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "K1",
         "glider": "JS1a",
         "flarm": [
@@ -46,7 +46,7 @@
     },
     {
         "name": "Martin Hurst",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "MQN",
         "glider": "PIK20e",
         "flarm": [
@@ -55,7 +55,7 @@
     },
     {
         "name": "Kris Kauffman",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "ZGR",
         "glider": "ASW20-16.6M",
         "flarm": [
@@ -64,7 +64,7 @@
     },
     {
         "name": "Mathias Kopp",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "UCJ",
         "glider": "ASG32",
         "flarm": [
@@ -73,7 +73,7 @@
     },
     {
         "name": "Mark Laird",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "GLL",
         "glider": "Grob103SL",
         "flarm": [
@@ -82,7 +82,7 @@
     },
     {
         "name": "Ian Sawell",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "KYL",
         "glider": "LS6a",
         "flarm": [
@@ -91,7 +91,7 @@
     },
     {
         "name": "Nicholas Singer",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "F1",
         "glider": "JS1a",
         "flarm": [
@@ -100,7 +100,7 @@
     },
     {
         "name": "Justin Smith",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "CHA",
         "glider": "Arcus",
         "flarm": [
@@ -109,7 +109,7 @@
     },
     {
         "name": "David Turner",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "GRT",
         "glider": "ASW27",
         "flarm": [
@@ -118,7 +118,7 @@
     },
     {
         "name": "Andrew White",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "OYE",
         "glider": "JS1a",
         "flarm": [
@@ -127,7 +127,7 @@
     },
     {
         "name": "Bruce Wynne",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "GIN",
         "glider": "DiscusB",
         "flarm": [
@@ -136,7 +136,7 @@
     },
     {
         "name": "Milan Sejka",
-        "comp": "Club",
+        "comp": "Sports",
         "cn": "M1",
         "glider": "LS8",
         "flarm": [
