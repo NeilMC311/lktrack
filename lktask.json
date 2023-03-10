@@ -1,0 +1,11 @@
+{
+    "comps": [
+        {
+            "id": "Sports",
+            "name": "Lake Keepit Regatta",
+            "short": "Sports",
+            "task": "https://www.soaringspot.com/en_gb/keepit-regatta-feb-2023-lake-keepit-2023/results/long-wings",
+            "colour": "#0074D9"
+        }
+    ]
+}
